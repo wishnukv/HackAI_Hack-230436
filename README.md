@@ -5,9 +5,12 @@ This Python script allows you to monitor currency exchange rates and receive not
 ## Prerequisites
 
 Before running this script, make sure you have the following prerequisites installed:
-- Python 3.x
+- Python 3
 - Requests library (install it using `pip install requests`)
 - Tkinter (usually included with Python installations)
+- Tkinter (usually included with Python installations)
+- uAgents library(install it using `pipenv install uagents`
+
 
 ## Getting Started
 
