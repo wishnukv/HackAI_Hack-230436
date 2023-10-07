@@ -8,7 +8,6 @@ Before running this script, make sure you have the following prerequisites insta
 - Python 3
 - Requests library (install it using `pip install requests`)
 - Tkinter (usually included with Python installations)
-- Tkinter (usually included with Python installations)
 - uAgents library(install it using `pipenv install uagents`
 
 
