@@ -1,5 +1,10 @@
 # Currency Exchange Rate Notifier
 Currency Exchange Monitor & Alert Agent is a user-friendly tool that is designed to help users to interact with the Exchange Rates .This application has used  uAgent libraries to create and to be informed about the changes in  currency rates .
+
+Currency Exchange Monitor and Alert system is a software solution built using the uAgent library, designed to provide users with real-time currency exchange rate monitoring and customised alerts. the following are the key features it provides:
+flexibility in choosing currency, Users can conveniently choose a currency they wish to monitor according to their preference. it allows u to choose one or more foreign currencies. the system ensures to provide you with timely accurate updates in the exchange rate data. it helps you to retrieve even the minute changes in the data. we provide a seamless connection with the currency exchange API. 
+users can conveniently personalise and set their preferred thresholds for the alerts. users can input the preferred values to obtain alerts in real time. the rates are monitored in real time providing you with a reliable information to make timely decisions.
+
 This Python script allows you to monitor currency exchange rates and receive notifications when they cross certain threshold values. It uses the ExchangeRates API to fetch the latest exchange rates and a simple GUI implemented using Tkinter for user interaction.
 
 ## Prerequisites
