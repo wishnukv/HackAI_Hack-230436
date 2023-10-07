@@ -28,4 +28,3 @@ Before running this script, make sure you have the following prerequisites insta
 ## Notes
 
 - This program uses data from the ExchangeRates API. Ensure you have a stable internet connection for accurate exchange rate information.
-
